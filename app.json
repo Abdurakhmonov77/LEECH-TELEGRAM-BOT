@@ -1,11 +1,11 @@
 {
-  "name": "Telegram Leech Bot By Waris",
+  "name": "Telegram Leech Bot",
   "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Made By - WarisAli",
   "logo": "https://telegra.ph/file/e7689586d3f3477706660.jpg",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/WarisBotz/LEECH-TELEGRAM-BOT",
+  "repository": "https://github.com/Abdurakhmonov77/LEECH-TELEGRAM-BOT",
   "success_url": "https://t.me/TEAMMOVIEZCINEMASADMINBOT",
   "website": "https://github.com/WarisBotz/LEECH-TELEGRAM-BOT",
   "env": {
